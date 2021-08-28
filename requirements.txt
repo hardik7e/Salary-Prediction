@@ -1,0 +1,6 @@
+matplotlib==3.4.3
+python==3.9
+pandas
+numpy
+streamlit
+pickle
